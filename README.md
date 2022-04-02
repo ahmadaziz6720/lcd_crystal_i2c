@@ -10,5 +10,5 @@ Arduino Nano/Uno
 ## Library
 [library file](lib/Arduino-LiquidCrystal-I2C-library-master.zip) </br>
 
-Include library:
-<code> #include <LiquidCrystal_I2C.h> </code>
+Include library: <br>
+<code>#include <LiquidCrystal_I2C.h> </code>
