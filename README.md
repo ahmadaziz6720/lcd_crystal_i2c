@@ -1,6 +1,10 @@
-# lcd_crystal_i2c
+# LCD Crystall 16x2 I2C Arduino
 
-// SCL -> A4
-// SDA -> A5
-// GND -> GND
-// Vcc -> 5V
+## Wiring
+- SCL -> A4 <br>
+- SDA -> A5 <br>
+- GND -> GND <br>
+- Vcc -> 5V
+
+## Library
+#include <LiquidCrystal_I2C.h>
